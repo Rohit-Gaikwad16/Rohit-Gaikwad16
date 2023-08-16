@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Gaikwad</h1>
 <h3 align="center">"Turning Data into Insights | Python | Machine Learning | Data Visualization"</h3>
-<img src= "coding gif.gif" align="right" alt="Coder" width="40" height="40">
+<img src= "coding gif.gif" align="right" alt="Coder" width="80" height="80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-gaikwad0606&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-gaikwad0606" /> </p>
 
